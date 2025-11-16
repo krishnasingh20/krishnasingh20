@@ -53,6 +53,10 @@ I am passionate about building impactful web applications and continuously learn
 
 ### 🏅 Badges & Coding Stats
 
+#### GitHub Stats
+![Krishna Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnasingh20&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=krishnasingh20&theme=dark)
+
 #### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/krishna_singh24?theme=dark&ext=heatmap)
 
