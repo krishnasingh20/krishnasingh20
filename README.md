@@ -1,63 +1,98 @@
-# Welcome! I'm Krishna Singh
-
-**Prefinal Year B.Tech Student @ GLA University**
-
-I am passionate about building impactful web applications and continuously learning the latest technologies.
-
----
-
-### 📫 Contact
-- You can contact me at: [krishnasinghks1225@gmail.com](mailto:krishnasinghks1225@gmail.com)
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=3000&pause=1000&color=00A3FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Krishna+Singh!;Full+Stack+Developer;1100%2B+DSA+Problems+Solved;Passionate+Coder+%7C+Creator+%7C+Learner" />
+</h1>
 
 ---
 
-### 🛠️ Technical Skills
+## 🚀 About Me  
+I'm **Krishna Singh**, a **Prefinal Year B.Tech CSE Student** at **GLA University**, passionate about building high-quality full-stack applications, mastering DSA, and continuously learning modern technologies.
 
-**Programming Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-
-**Web Technologies:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/REST-API-black)
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
-
-**Developer Tools:**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%2331A8FF.svg?logo=pycharm&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?logo=eclipse-ide&logoColor=white)
+- 🔥 Full-Stack Developer (MERN + TypeScript)  
+- 🧠 Solved **1100+ DSA Problems** across Codeforces, LeetCode, CodeChef  
+- 🌱 Currently improving **System Design** & **Backend Architecture**  
+- 🎯 Goal: Become a highly skilled software engineer  
 
 ---
 
-### 🌐 Socials
+## 📫 Connect With Me  
+📧 **Email:** `krishnasinghks1225@gmail.com`  
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/krishnasingh20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh-994336294/)
+<p align="left">
+  <a href="https://github.com/krishnasingh20"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https://www.linkedin.com/in/krishna-singh-994336294/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="50"/>
+</p>
+
+### 🌐 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
+  <img src="https://skillicons.dev/icons?i=jquery" width="50"/>
+</p>
+
+### 🧩 **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=express" width="50"/>
+</p>
+
+### 🗄️ **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+</p>
+
+### 🧰 **Developer Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="50"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" width="50"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="50"/>
+</p>
 
 ---
 
-### 🏅 Badges & Coding Stats
+## 📊 Coding Profiles  
 
-#### GitHub Stats
-![Krishna Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnasingh20&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=krishnasingh20&theme=dark)
-
-#### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/krishna_singh24?theme=dark&ext=heatmap)
+### 🔥 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnasingh20&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=krishnasingh20&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
+
+### 🧩 **LeetCode Stats**
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/krishna_singh24?theme=dark&border=2&radius=20&ext=heatmap" />
+</p>
+
+---
+
+## 🚀 Current Focus  
+- Building highly scalable full-stack applications  
+- Mastering advanced DSA concepts  
+- Working on TypeScript + Node.js backend projects  
+- Preparing for top-tech interviews  
+
+---
+
+## ⭐ If you like my work  
+💙 Don’t forget to star ⭐ my repositories — it motivates me a lot!
+
