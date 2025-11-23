@@ -20,7 +20,7 @@ const krishna = {
     year: "Pre-Final Year",
     passion: ["Competitive Programming", "Web Development", "Problem Solving"],
     achievement: "1100+ DSA Problems Solved 🔥",
-    currentFocus: ["System Design", "Backend Architecture", "TypeScript"],
+    currentFocus: ["Backend Development", "MERN Stack", "Data Structures & Algorithms"],
     lifeGoal: "Build impactful software that changes lives 🚀"
 };
 ```
@@ -96,43 +96,29 @@ const krishna = {
 ### 🌟 **Competitive Programming**
 
 [![](https://img.shields.io/badge/LeetCode-1100+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishna_singh24/)
-[![](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishna_Singh25)
-[![](https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krishna2027)
+[![](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishna_Singh25)
+[![](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krishna2027)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Mission
+## 🎯 What I'm Working On
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Learning] -->|Daily| B[DSA Practice]
-    A -->|Building| C[Full Stack Projects]
-    A -->|Mastering| D[System Design]
-    B --> E[Problem Solving]
-    C --> F[MERN + TypeScript]
-    D --> G[Scalable Architecture]
-    E --> H{Goal}
-    F --> H
-    G --> H
-    H -->|Achievement| I[Top Tech Company 🎯]
-```
-
-</div>
-
 <table align="center">
   <tr>
-    <td align="center">🚀 Building scalable applications</td>
-    <td align="center">🧠 Mastering advanced DSA</td>
+    <td align="center">💻 Building full-stack web applications</td>
+    <td align="center">🧠 Solving DSA problems daily</td>
   </tr>
   <tr>
-    <td align="center">⚡ TypeScript + Node.js projects</td>
-    <td align="center">💼 Preparing for FAANG interviews</td>
+    <td align="center">⚡ Learning advanced backend concepts</td>
+    <td align="center">📚 Exploring new technologies</td>
   </tr>
 </table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
