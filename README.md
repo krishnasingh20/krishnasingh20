@@ -95,9 +95,9 @@ const krishna = {
 
 ### 🌟 **Competitive Programming**
 
-[![](https://img.shields.io/badge/LeetCode-1100+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/krishna_singh24)
-[![](https://img.shields.io/badge/Codeforces-Solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![](https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
+[![](https://img.shields.io/badge/LeetCode-1100+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishna_singh24/)
+[![](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishna_Singh25)
+[![](https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krishna2027)
 
 </div>
 
