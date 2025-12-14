@@ -37,7 +37,7 @@ const krishna = {
 ### 🏆 Quick Highlights
   
 ![](https://img.shields.io/badge/Full_Stack-MERN-00D9FF?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Languages-Java_|_JavaScript-00D9FF?style=for-the-badge&logo=code&logoColor=white)
+![](https://img.shields.io/badge/Languages-Java_|_Python_|_JavaScript-00D9FF?style=for-the-badge&logo=code&logoColor=white)
 ![](https://img.shields.io/badge/Always-Learning_&_Growing-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
@@ -139,4 +139,8 @@ If you find my projects helpful or interesting:
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+the+future+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnasingh20&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
