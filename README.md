@@ -1,11 +1,11 @@
 <!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20Singh&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%201100+%20DSA%20Problems%20Solved&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20Singh&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Krishna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;1100%2B+DSA+Problems+Conquered+%F0%9F%8F%86;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Krishna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Passionate+About+Code+%26+Innovation+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- Animated Divider -->
@@ -19,9 +19,8 @@ const krishna = {
     education: "B.Tech CSE @ GLA University",
     year: "Pre-Final Year",
     passion: ["Competitive Programming", "Web Development", "Problem Solving"],
-    achievement: "1100+ DSA Problems Solved 🔥",
     currentFocus: ["Backend Development", "MERN Stack", "Data Structures & Algorithms"],
-    lifeGoal: "Build impactful software that changes lives 🚀"
+    lifeGoal: "Solving real-world problems through efficient code and meaningful web solutions."
 };
 ```
 
@@ -29,9 +28,9 @@ const krishna = {
   
 ### 🏆 **Quick Highlights**
   
-![](https://img.shields.io/badge/DSA_Problems-1100+-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white)
 ![](https://img.shields.io/badge/Full_Stack-MERN-00D9FF?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Languages-Java_|_Python_|_TypeScript-00D9FF?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Languages-Java_|_Python-00D9FF?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Always-Learning-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
@@ -43,7 +42,7 @@ const krishna = {
 
 ### 💻 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
 </p>
 
 ### 🎨 **Frontend Development**
@@ -87,17 +86,15 @@ const krishna = {
 
 <div align="center">
 
-### 💡 **LeetCode Journey**
+### 🌟 **Competitive Programming**
 
-<img src="https://leetcard.jacoblin.cool/krishna_singh24?theme=dark&font=Ubuntu&ext=contest&border=2&radius=20" width="60%"/>
+[![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishna_singh24/)
+[![](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishna_Singh25)
+[![](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krishna2027)
 
 <br/>
 
-### 🌟 **Competitive Programming**
-
-[![](https://img.shields.io/badge/LeetCode-1100+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishna_singh24/)
-[![](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishna_Singh25)
-[![](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krishna2027)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
@@ -127,12 +124,8 @@ const krishna = {
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-krishnasinghks1225%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnasinghks1225@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh-994336294/)
-[![GitHub](https://img.shields.io/badge/GitHub-krishnasingh20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnasingh20)
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=krishnasingh20&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh-994336294/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnasingh20)
 
 </div>
 
