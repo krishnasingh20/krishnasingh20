@@ -1,6 +1,7 @@
-<!-- Animated Wave Header -->
+<!-- Simple Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20Singh&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <h1>👨‍💻 Krishna Singh</h1>
+  <h3>Full Stack Developer | Problem Solver</h3>
 </div>
 
 <!-- Typing Animation -->
@@ -8,7 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Krishna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Passionate+About+Code+%26+Innovation+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 About Me
@@ -18,53 +18,49 @@ const krishna = {
     role: "Full Stack Developer",
     education: "B.Tech CSE @ GLA University",
     year: "Pre-Final Year",
-    passion: ["Competitive Programming", "Web Development", "Problem Solving"],
-    currentFocus: ["Backend Development", "MERN Stack", "Data Structures & Algorithms"],
-    lifeGoal: "Solving real-world problems through efficient code and meaningful web solutions."
+    passion: [
+        "Competitive Programming", 
+        "Web Development", 
+        "Problem Solving"
+    ],
+    currentFocus: [
+        "Backend Development", 
+        "MERN Stack", 
+        "DSA"
+    ],
+    lifeGoal: "Building solutions that matter 🎯"
 };
 ```
 
 <div align="center">
   
-### 🏆 **Quick Highlights**
+### 🏆 Quick Highlights
   
 ![](https://img.shields.io/badge/Full_Stack-MERN-00D9FF?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Languages-Java_|_Python-00D9FF?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Always-Learning-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white)
+![](https://img.shields.io/badge/Languages-Java_|_JavaScript-00D9FF?style=for-the-badge&logo=code&logoColor=white)
+![](https://img.shields.io/badge/Always-Learning_&_Growing-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
-</p>
-
-### 🎨 **Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,jquery&theme=dark" />
-</p>
-
-### ⚙️ **Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
-</p>
-
-### 🧰 **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,eclipse,postman,figma&theme=dark" />
-</p>
+| Category | Technologies |
+|----------|-------------|
+| **💻 Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **🎨 Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |
+| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) |
+| **💾 Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| **🧰 Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishnasingh20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
@@ -80,27 +76,21 @@ const krishna = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnasingh20&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏅 Coding Profiles
+## 🏅 Competitive Programming
 
 <div align="center">
 
-### 🌟 **Competitive Programming**
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishna_singh24/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishna_Singh25)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krishna2027)
 
-[![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishna_singh24/)
-[![](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishna_Singh25)
-[![](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krishna2027)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 What I'm Working On
+## 🚀 Current Focus
 
 <div align="center">
 
@@ -131,23 +121,18 @@ const krishna = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💝 Show Some Love
+## 💝 Support My Work
 
 <div align="center">
 
-### If you like what I do, consider:
+If you find my projects helpful or interesting:
 
-⭐ **Starring my repositories** — It motivates me to create more!  
-🔔 **Following me** — Stay updated with my latest projects  
-💬 **Connecting with me** — Let's build something amazing together!
+⭐ **Star my repositories** — Your support motivates me!  
+🔔 **Follow me** — Stay updated with my latest work  
+💬 **Connect with me** — Let's collaborate and build together!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-</div>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
 
 ---
